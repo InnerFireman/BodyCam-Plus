@@ -40,7 +40,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/YOUR_USERNAME/BodyCam-Plus/releases/latest">
+<a href="https://github.com/InnerFireman/BodyCam-Plus/releases/download/1/BodyCam-Plus.zip">
   <img src="https://github.com/InnerFireman/BodyCam-Plus/releases/download/1/BodyCam-Plus.zip">
 </a>
 
